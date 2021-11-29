@@ -1,5 +1,9 @@
-### Hi there 👋
+### Howdy! 👋
 
+My name is Ben Stone(StenBone). I primarily write C++ programs, currently I\'m focused on [stenbone_takes_on_modern_cpp_challenge](https://github.com/StenBone/stenbone_takes_on_modern_cpp_challenge) and [ConwaysGOL](https://github.com/StenBone/ConwaysGOL). The former repository is my adventure through <u>The Modern C++ Challenge</u> by Marius Bancila and the latter is a recreation of Conways Game of Life with C++ and SFML that I am using as a series on my [blog](https://stenbone.io).
+I hope you find something cool here and stay a while. Happy Coding! 👨‍💻
+
+-Ben
 <!--
 **StenBone/StenBone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
